@@ -1,10 +1,4 @@
 <script>
-  import { onMount } from 'svelte'
-  import loadClient from '$lib/loadClient'
-
-  onMount(async () => {
-    loadClient()
-  })
 </script>
 
 <div class="header">
